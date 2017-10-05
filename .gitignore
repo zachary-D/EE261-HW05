@@ -43,3 +43,8 @@
 **/vc2013/Release/
 **/.vs/**
 *.ipch
+
+# VS 2017 files
+/*/Debug
+/*/*/Debug
+/*/Release
